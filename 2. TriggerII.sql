@@ -3,7 +3,7 @@
 		FOR EACH ROW
 			BEGIN
             END;
-hola 
+hola
 */
 
 DROP DATABASE IF EXISTS tecSucre;
